@@ -1,5 +1,5 @@
-// [
-//     {
-//         "MONGO_URL":"mongodb+srv://ajaysolanki1106:Gj06mn3371@cluster0.livvvlc.mongodb.net/?retryWrites=true&w=majority"
-//     }
-// ]
+[
+    {
+        "MONGO_URL":"mongodb+srv://ajaysolanki1106:Gj06mn3371@cluster0.livvvlc.mongodb.net/?retryWrites=true&w=majority"
+    }
+]
