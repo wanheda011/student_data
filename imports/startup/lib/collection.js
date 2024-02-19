@@ -1,0 +1,1 @@
+export const SubjectData = new Mongo.Collection('pitSubjects');

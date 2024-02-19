@@ -1,0 +1,31 @@
+<template name="home">
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col">
+                <img src="images/Parul_logo.png" alt="" width="400px" class="mt-5 img-fluid">
+            </div>
+            <div class="mt-5">
+                <form id="subject_form">
+                    <div class="mb-3">
+                      <label for="subject_code" class="form-label">Enter A Subject Code</label>
+                      <input type="text" class="form-control border border-danger" id="subject_code" placeholder="Enter Subject Code Here...">
+                      <div class="form-text">You can see your subject details here.</div>
+                    </div>
+                    <button type="submit" id="subject_form_sub_btn" class="btn btn-outline-danger">Find Details</button>
+                </form>
+            </div>
+            <div class="mt-5">
+                {{#each subjectData}}
+            <hr>
+            <p>SEMESTER :  {{Semester}}</p>
+            <p>    SUBJECT CODE : {{subject_code}}</p>
+            <p>    SUBJECT NAME : {{subject_name}}</p>
+            <p>    FACULTY NAME : {{faculty_name}}</p>
+            <p>    CONTACT NAME : {{contact_number}}</p>
+            {{/each}}
+
+            </div>
+            
+        </div>
+    </div>
+</template>

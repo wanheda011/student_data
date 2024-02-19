@@ -1,0 +1,818 @@
+[
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": "203108101/303105306",
+  "subject_name": "Information and Communication Technology",
+  "faculty_name": "Dinesh Cholkar (PIT)",
+  "contact_number": 8817773673.0
+},
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": "03108101/203105101",
+  "subject_name": "Fundamentals of Programming/ Fundamentals of Programming",
+  "faculty_name": "Sujaya Bhatacharjee",
+  "contact_number": "87878 99495"
+},
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": 203105339,
+  "subject_name": "Computer Peripherals And Software Tools",
+  "faculty_name": "Shivangi Patel",
+  "contact_number": 7567245362
+},
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": "303105102/203105102",
+  "subject_name": "Programming for Problem Solving",
+  "faculty_name": "Sujaya Bhatacharjee",
+  "contact_number": "87878 99495"
+},
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": 303105101,
+  "subject_name": "Computer Essentials",
+  "faculty_name": "Giriraj Puwar",
+  "contact_number": 9409029090
+},
+{
+  "Semester": "1st & 2nd Semester",
+  "subject_code": "203105337/203105338",
+  "subject_name": "Object Oriented Programming with C++",
+  "faculty_name": "Bhumi Shah",
+  "contact_number": 8511864779
+},
+{
+  "Semester": "3rd sem",
+  "subject_code": "03105203/203105205 /203105206 / 303105201 / 303105202",
+  "subject_name": "Data Structures/ Data Structure and Algorithms/Data Structure and Algorithms Laboratory",
+  "faculty_name": "Mohit Rathod",
+  "contact_number": 9978524578
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": "03105204/203105337/203105338",
+  "subject_name": "Object Oriented Programming with C++/Object Oriented Programming with C++/ Object Oriented Programming with C++ Laboratory",
+  "faculty_name": "Bhumi Shah",
+  "contact_number": 8511864779
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": "03105202/203105203 /203105204",
+  "subject_name": "Operating System/Operating System Laboratory",
+  "faculty_name": "Arpita Vaidya",
+  "contact_number":
+  "Semester":  "3rd sem",
+  "subject_code": "203105211 /203105212",
+  "subject_name": "Python Programming/ Python Programming Laboratory",
+  "faculty_name": "Ajay Solanki",
+  "contact_number":
+  "Semester":  "3rd sem",
+  "subject_code": "03105205/203105209",
+  "subject_name": "Problem Diagnosis & Practices/IT Workshop-1",
+  "faculty_name": "Ashish Patel",
+  "contact_number": 9423470666
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": "203105207/203105208",
+  "subject_name": "Object Oriented Concepts and UML/Object Oriented Concepts and UML Laboratory",
+  "faculty_name": "Sweety Patel",
+  "contact_number": 7096723895
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": "203105251/203105260/203105261 / 303105203/303105204",
+  "subject_name": "Database Management System/Database Management System Laboratory",
+  "faculty_name": "Sunny Thakare",
+  "contact_number": 9822503960
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": "303105205 / 303105206",
+  "subject_name": "Object Oriented Progrmaming with JAVA",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number":
+  "Semester":  "3rd sem",
+  "subject_code": 203105210.0,
+  "subject_name": "Product Realization",
+  "faculty_name": "Riddhi Mehta",
+  "contact_number": 9712269946
+},
+{
+  "Semester":  "3rd sem",
+  "subject_code": 203124208,
+  "subject_name": "Python Programming Workshop-1",
+  "faculty_name": "Ajay Solanki ",
+  "contact_number": 8320531282
+},
+{
+
+  "Semester":  "3rd sem",
+  "subject_code": "303105222/303105223",
+  "subject_name": "Mastering Kali Linux and OSINT / Mastering Kali Linux and OSINT Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022.0
+},
+{
+  "Semester": "4th Semester",
+  "subject_code": "03105254/203105251/203105252/203105260/203105261",
+  "subject_name": "Database Management System/Database Management System Laboratory",
+  "faculty_name": "Sunny Thakare",
+  "contact_number": 9822503960
+},
+{
+  "Semester": "4th Semester",
+  "subject_code": "3105251",
+  "subject_name": "Object Oriented Analysis & Design with UML/Object Oriented Concepts and UML/Object Oriented Concepts and UML Laboratory",
+  "faculty_name": "Sweety Patel",
+  "contact_number": 7096723895
+},
+{
+  "Sr. No": 3.0,
+  "Semester": "4th Semester",
+  "subject_code": 203105211,
+  "subject_name": "Python Programming",
+  "faculty_name": "Ajay Solanki ",
+  "contact_number": 8320531282
+},
+{
+  "Sr. No": 4.0,
+  "Semester": "4th Semester",
+  "subject_code": "03105256/203105258",
+  "subject_name": "Prototype Designing/ IT Workshop-2",
+  "faculty_name": "Ashish Patel",
+  "contact_number": 9423470666
+},
+{
+  "Sr. No": 6.0,
+  "Semester":"4th Semester",
+  "subject_code": "03105252/203105253/203105254",
+  "subject_name": "Computer Organization/Computer Organization & Architecture /Computer Organization & Architecture Laboratory",
+  "faculty_name": "NA",
+  "contact_number": "NA"
+},
+{
+  "Sr. No": 7.0,
+  "Semester": "4th Semester",
+  "subject_code": "203105255/203105256/203105215/ 203105216",
+  "subject_name": "Computer Networks/Computer Networks Laboratory",
+  "faculty_name": "Ayushi Desai",
+  "contact_number": 8320473589
+},
+{
+  "Sr. No": 9.0,
+  "Semester": "4th Semester",
+  "subject_code": "203105203/203105204/203105213/203105214",
+  "subject_name": "Operating System / Operating System Laboratory",
+  "faculty_name": "Arpita Vaidya",
+  "contact_number": 9427017623
+},
+{
+  "Sr. No": 10.0,
+  "Semester": "4th Semester",
+  "subject_code": "203105241/203105242/203105259",
+  "subject_name": "Java Programming/ Java Programming Laboratory/ Java Programming Workshop",
+  "faculty_name": "Proloy Biswash",
+  "contact_number": 8906056774.0
+},
+{
+  "Sr. No": 12.0,
+  "Semester": "4th Semester",
+  "subject_code": "203124251/203124252",
+  "subject_name": "Analysis of Algorithm/ Analysis of Algorithm Laboratory",
+  "faculty_name": "Meet M Patel",
+  "contact_number": 9574211800
+},
+{
+  "Sr. No": 13.0,
+  "Semester": "4th Semester",
+  "subject_code": "203124253/203124254",
+  "subject_name": "Fundamentals of Software Engineering/ Fundamentals of Software Engineering Laboratory",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 14.0,
+  "Semester": "4th Semester",
+  "subject_code": "203105301/203105302",
+  "subject_name": "Design and Analysis of Algorithms/Design and Analysis of Algorithms Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 15.0,
+  "Semester": "4th Semester",
+  "subject_code": "03105251",
+  "subject_name": "Object Oriented Analysis & Design with UML/Object Oriented Concepts and UML/Object Oriented Concepts and UML Laboratory",
+  "faculty_name": "Prolay Biswas",
+  "contact_number": 8906056774
+},
+{
+  "Sr. No": 16.0,
+  "Semester": "4th Semester",
+  "subject_code": "03105252",
+  "subject_name": "Computer Organization",
+  "faculty_name": "NA",
+  "contact_number": null
+},
+{
+  "Sr. No": 17.0,
+  "Semester": "4th Semester",
+  "subject_code": "03105255",
+  "subject_name": "Python Programming ",
+  "faculty_name": null,
+  "contact_number": null
+},
+{
+  "Sr. No": 1.0,
+  "Semester": "5th Semester",
+  "subject_code": "03105301",
+  "subject_name": "Data Communication Networks",
+  "faculty_name": "Keya Patel",
+  "contact_number": 9157894779
+},
+{
+  "Sr. No": 2.0,
+  "Semester": "5th Semester",
+  "subject_code": "03105303/203105305",
+  "subject_name": "Theory of Computation/Formal Language & Automata Theory",
+  "faculty_name": "Riddhi A Mehta",
+  "contact_number": 9712269946
+},
+{
+  "Sr. No": null,
+  "Semester": "5th Semester",
+  "subject_code": 203105306,
+  "subject_name": " Internet of Everything Laboratory",
+  "faculty_name": "NA",
+  "contact_number": null
+},
+{
+  "Sr. No": 3.0,
+  "Semester": "5th Semester",
+  "subject_code": "03105331/203105333/203105334",
+  "subject_name": "Java and Internet Technology/Object Oriented Programming with Java/Object Oriented Programming with Java Laboratory",
+  "faculty_name": "Proloy Biswash",
+  "contact_number": 8906056774
+},
+{
+  "Sr. No": 4.0,
+  "Semester": null,
+  "subject_code": "03105302 / I03105301 / 203105318 / 203105319",
+  "subject_name": "Design and Analysis of Algorithm/ Design and Analysis of Algorithms Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 6.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105303/203105304",
+  "subject_name": "Software Engineering/Software Engineering Laboratory",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 7.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105331/203105332",
+  "subject_name": "Object Oriented Programming with C++ /Object Oriented Programming with C++ Laboratory",
+  "faculty_name": "Bhumi Shah",
+  "contact_number": 8511864779
+},
+{
+  "Sr. No": 8.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105316/203105317",
+  "subject_name": "Advanced Java Programming/Advanced Java Programming Laboratory",
+  "faculty_name": "Prolay Biswas",
+  "contact_number": 8906056774.0
+},
+{
+  "Sr. No": 9.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105353/203105344",
+  "subject_name": "Web Programming Laboratory/Web Programming",
+  "faculty_name": "Frenisha Digaswala",
+  "contact_number": 9099079450
+},
+{
+  "Sr. No": 10.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105307/203105308",
+  "subject_name": "Data visualization and Data Analytics/ Data visualization and Data Analytics Laboratory",
+  "faculty_name": "Dr. Gaurav Ameta",
+  "contact_number": 9413664420
+},
+{
+  "Sr. No": 11.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105310/203105311",
+  "subject_name": "Information and Network security/Information and Network security Laboratory",
+  "faculty_name": "Proloy Biswas",
+  "contact_number": 9926287572
+},
+{
+  "Sr. No": 12.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105322/203105323",
+  "subject_name": "Artificial Intelligence/ Artificial Intelligence laboratory",
+  "faculty_name": "Kapil Dev Raghuvanshi",
+  "contact_number": 9993151148
+},
+{
+  "Sr. No": 13.0,
+  "Semester": "5th Semester",
+  "subject_code": 203105314.0,
+  "subject_name": "Data Exploration",
+  "faculty_name": "NA",
+  "contact_number": null
+},
+{
+  "Sr. No": 14.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105453/203105454",
+  "subject_name": "Data Mining and Business Intelligence/ Data Mining and Business Intelligence Laboratory",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 15.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105326/203105327",
+  "subject_name": "Cyber Security/Cyber Security Laboratory",
+  "faculty_name": "Nirali Bhaliya",
+  "contact_number": 9825108184
+},
+{
+  "Sr. No": 16.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105324 /2031053245",
+  "subject_name": "Cryptography/ Cryptography Laboratory",
+  "faculty_name": "Ayushi Desai",
+  "contact_number": 7567154056
+},
+{
+  "Sr. No": 18.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105362/303105363",
+  "subject_name": "Mastering Kali Linux and OSINT",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 19.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105364/203105365",
+  "subject_name": "Digital Forensics and Incident Response/Digital Forensics and Incident Response Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 20.0,
+  "Semester": "5th Semester",
+  "subject_code": 203105366,
+  "subject_name": "Information Security Management System",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 21.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105372/203105373",
+  "subject_name": "Enterprise Programming /Enterprise Programming Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 22.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105374 / 203105375",
+  "subject_name": "Design and Analysis of Algorithms / Design and Analysis of Algorithms Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 23.0,
+  "Semester": "5th Semester",
+  "subject_code": 203105376,
+  "subject_name": "Azure Fundamentals",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 25.0,
+  "Semester": "5th Semester",
+  "subject_code": "203105453/203105454",
+  "subject_name": "Data Mining and Business Intelligence/ Data Mining and Business Intelligence Laboratory",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 1.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105352/203105351/203105352/203105361",
+  "subject_name": "Principles Of Compiler Design/Compiler Design/Compiler Design Laboratory",
+  "faculty_name": "Vaibhavi Parikh",
+  "contact_number": 8849995938
+},
+{
+  "Sr. No": 2.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105354",
+  "subject_name": "Information Security",
+  "faculty_name": "Ayushi Desai",
+  "contact_number": 7567154056
+},
+{
+  "Sr. No": 3.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105351",
+  "subject_name": "Wireless Networks And Mobile Computing",
+  "faculty_name": "Ashish Patel",
+  "contact_number": 9423470666
+},
+{
+  "Sr. No": 4.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105353/203105353/203105354",
+  "subject_name": "Advanced Web Technology/Web Programming/Web Programming Laboratory",
+  "faculty_name": "Frenisha Digaswala",
+  "contact_number": 9099079450
+},
+{
+  "Sr. No": 5.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105380",
+  "subject_name": "Advanced Java Technology",
+  "faculty_name": "Proloy Biswash",
+  "contact_number": 8906056774
+},
+{
+  "Sr. No": 6.0,
+  "Semester": "6th Semester",
+  "subject_code": "03105381/203105329/203105330",
+  "subject_name": ".Net Technology/ .NET Programming Laboratory",
+  "faculty_name": "Nirali Bhaliya",
+  "contact_number": 9825108184
+},
+{
+  "Sr. No": 7.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105350/203105328",
+  "subject_name": "Project – 1",
+  "faculty_name": "Kapil Dev Raghuvanshi",
+  "contact_number": 9993151148
+},
+{
+  "Sr. No": 8.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105381/203105382",
+  "subject_name": "Cryptography/ Cryptography Laboratory",
+  "faculty_name": "Ayushi Desai",
+  "contact_number": 7567154056
+},
+{
+  "Sr. No": 9.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105395/203105396",
+  "subject_name": "Software Testing & Quality Assurance/Software Testing & Quality Assurance Laboratory",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 12.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105391/203105392/03105351",
+  "subject_name": "Wireless Communication/Wireless Communication Laboratory/Wireless Networks And Mobile Computing",
+  "faculty_name": "Amar Chandra",
+  "contact_number": 8318373966
+},
+{
+  "Sr. No": 13.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105359 /203105360/203105360/203108392",
+  "subject_name": "Mobile Application Development / Mobile Application Development Laboratory/Mobile Computing",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 14.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105453/203105454",
+  "subject_name": "Data Mining and Business Intelligence/Data Mining and Business Intelligence Laboratory",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 15.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105326/203105327",
+  "subject_name": "Cyber Security/ Cyber Security Laboratory",
+  "faculty_name": "Nirali Bhaliya",
+  "contact_number": 9825108184
+},
+{
+  "Sr. No": 16.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105397/203105398",
+  "subject_name": "GPU computing/ GPU computing Laboratory",
+  "faculty_name": "Rahul Sharma",
+  "contact_number": 9589832255
+},
+{
+  "Sr. No": 17.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105399/203105403",
+  "subject_name": "Machine Learning/Machine Learning Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 18.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105443/203105348",
+  "subject_name": "Big Data Analytics/Big Data Analytics laboratory",
+  "faculty_name": "Sweety Patel",
+  "contact_number": 7096723895
+},
+{
+  "Sr. No": 19.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105445/203105446",
+  "subject_name": "Cloud Computing/Cloud Computing Laboratory",
+  "faculty_name": "Umang Panchal",
+  "contact_number": 9512977129
+},
+{
+  "Sr. No": 20.0,
+  "Semester": "6th Semester",
+  "subject_code": 203105316,
+  "subject_name": "Advanced Java Programming",
+  "faculty_name": "Proloy Biswash",
+  "contact_number": 8906056774
+},
+{
+  "Sr. No": 21.0,
+  "Semester": "6th Semester",
+  "subject_code": 203105320,
+  "subject_name": "Wireless Networks",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 22.0,
+  "Semester": "6th Semester",
+  "subject_code": "203105410/203105411",
+  "subject_name": "CyberLaws and Ethics/CyberLaws and Ethics Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": null,
+  "Semester": "6th Semester",
+  "subject_code": 203105412,
+  "subject_name": "Network Security Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 24.0,
+  "Semester": "6th Semester",
+  "subject_code": "203108381/203108382",
+  "subject_name": "Information Security / informqation Security Lab",
+  "faculty_name": "Ayushi Desai",
+  "contact_number": 7567154056
+},
+{
+  "Sr. No": 28.0,
+  "Semester": "6th Semester",
+  "subject_code": 203105349,
+  "subject_name": "Network Security",
+  "faculty_name": "Gourav Ameta(PIT)",
+  "contact_number": 9413664420
+},
+{
+  "Sr. No": 1.0,
+  "Semester": "7th Semester",
+  "subject_code": "03105401",
+  "subject_name": "Software Engineering",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 2.0,
+  "Semester": "7th Semester",
+  "subject_code": "03105402",
+  "subject_name": "Parallel and Distributed Computing",
+  "faculty_name": "Dr. Vinod Patidar",
+  "contact_number": 9009526270
+},
+{
+  "Sr. No": 3.0,
+  "Semester": "7th Semester",
+  "subject_code": "03105403/203105400",
+  "subject_name": "Project-1/ Project - 2",
+  "faculty_name": "KapilDev Raghuvanshi",
+  "contact_number": 9993151148
+},
+{
+  "Sr. No": 4.0,
+  "Semester": "7th Semester",
+  "subject_code": "03105431/203105441",
+  "subject_name": "Artificial Intelligence",
+  "faculty_name": "KapilDev Raghuvanshi",
+  "contact_number": 9993151148
+},
+{
+  "Sr. No": 5.0,
+  "Semester": "7th Semester",
+  "subject_code": "03105430/203105431 /203105432",
+  "subject_name": "Data Mining and Warehousing/Data Mining/Data Mining Laboratory",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 6.0,
+  "Semester": null,
+  "subject_code": 203105402,
+  "subject_name": "Summer Internship*",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 7.0,
+  "Semester": "7th Semester",
+  "subject_code": 203105425,
+  "subject_name": "Cyber Physical Systems",
+  "faculty_name": "Dr. Gourav Ameta",
+  "contact_number": 9413664420
+},
+{
+  "Sr. No": 8.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105445 /2031054456",
+  "subject_name": "Cloud Computing/ Cloud Computing Laboratory",
+  "faculty_name": "Umang Panchal",
+  "contact_number": 9512977129
+},
+{
+  "Sr. No": 9.0,
+  "Semester": "7th Semester",
+  "subject_code": 203108402,
+  "subject_name": "Summer Internship",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 10.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105447/ 203105448",
+  "subject_name": "Network Security / Network Security Laboratory",
+  "faculty_name": "Dr. Gourav Ameta",
+  "contact_number": 9413664420
+},
+{
+  "Sr. No": 11.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105413/203105414",
+  "subject_name": "Data Science for Engineers/Data Science for Engineers Laboratory",
+  "faculty_name": "Khushboo Trivedi",
+  "contact_number": 9825391971
+},
+{
+  "Sr. No": 14.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105431/203105432",
+  "subject_name": "Data Mining/ Data Mining Laboratory",
+  "faculty_name": "Bhasha Anjaria",
+  "contact_number": 9664946838
+},
+{
+  "Sr. No": 17.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105476/203105477",
+  "subject_name": "Deep Learning With NLP/Deep Learning With NLP Laboratory",
+  "faculty_name": "Dr. Vinod Patidar",
+  "contact_number": 9009526270
+},
+{
+  "Sr. No": 18.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105478/203105479",
+  "subject_name": "Pattern Recognition/Pattern Recognition Laboratory",
+  "faculty_name": "Prolay Biswas",
+  "contact_number": 8906056774
+},
+{
+  "Sr. No": 24.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105507/203105508",
+  "subject_name": "Digital Forensics/Digital Forensics Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 25.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105509/203105510",
+  "subject_name": "Web Application Security/ Web Application Security Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 26.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105511/203105512",
+  "subject_name": "reverse Engineering and malware analysis/reverse Engineering and malware analysis Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 28.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105513/203105514",
+  "subject_name": " Security Monitoring/Security Monitoring Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 29.0,
+  "Semester": "7th Semester",
+  "subject_code": 203105515,
+  "subject_name": "Machine Learning",
+  "faculty_name": "Frenisha Digaswala",
+  "contact_number": 9099079450
+},
+{
+  "Sr. No": 30.0,
+  "Semester": "7th Semester",
+  "subject_code": "203108400/203108401",
+  "subject_name": "Project - 2",
+  "faculty_name": "Mohit Rathod",
+  "contact_number": 9978524578
+},
+{
+  "Sr. No": 32.0,
+  "Semester": "7th Semester",
+  "subject_code": "203105408/203105409",
+  "subject_name": "Blockchain/Blockchain Laboratory",
+  "faculty_name": "Gayathri Naidu",
+  "contact_number": 8980050022
+},
+{
+  "Sr. No": 1.0,
+  "Semester": "8th Semester",
+  "subject_code": "03105451/203105450",
+  "subject_name": "Project - II/ Project - 3",
+  "faculty_name": "Mohit Rathod",
+  "contact_number": 9978524578
+},
+{
+  "Sr. No": 2.0,
+  "Semester": "8th Semester",
+  "subject_code": "03105452",
+  "subject_name": "Cyber Physical Systems",
+  "faculty_name": "Dr. Gourav Ameta",
+  "contact_number": 9413664420
+},
+{
+  "Sr. No": 3.0,
+  "Semester": "8th Semester",
+  "subject_code": "03105480",
+  "subject_name": "Big Data Analytics",
+  "faculty_name": "Sweety Patel",
+  "contact_number": 7096723895
+},
+{
+  "Sr. No": 4.0,
+  "Semester": "8th Semester",
+  "subject_code": "03105484",
+  "subject_name": "Software Testing and Quality Assurance",
+  "faculty_name": "Monika Nayak",
+  "contact_number": 9913908664
+},
+{
+  "Sr. No": 5.0,
+  "Semester": "8th Semester",
+  "subject_code": "203105467/203105452",
+  "subject_name": "Python Programming/Python Programming Laboratory",
+  "faculty_name": "Ajay Solanki ",
+  "contact_number": 8320531282
+},
+{
+  "Sr. No": 6.0,
+  "Semester": "8th Semester",
+  "subject_code": 203105483,
+  "subject_name": "Data Science",
+  "faculty_name": "Frenisha Digaswala",
+  "contact_number": 9099079450
+},
+{
+  "Sr. No": 7.0,
+  "Semester": "8th Semester",
+  "subject_code": "203105481 /203105482",
+  "subject_name": "Machine Learning/Machine Learning Laboratory",
+  "faculty_name": "Sujaya Bhatacharjee",
+  "contact_number": 8787899495
+}
+]
