@@ -4,7 +4,6 @@ import "../imports/startup/server/index";
 
 Meteor.startup(() => {
   // code to run on server at startup
-  const remote = new MongoInternals.RemoteCollectionDriver("mongodb+srv://ajaysolanki1106:wUFHu5D1gHjbeEga@cluster0.mqtrgau.mongodb.net/");
+  const MongoURL = Meteor.settings.public.mongoURL;
 
-  const newMongo = new Mongo.Collection('pitSubject', { _driver: remote });
 });

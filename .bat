@@ -1,1 +1,0 @@
-SET MONGO_URL = "mongodb+srv://ajaysolanki1106:wUFHu5D1gHjbeEga@cluster0.mqtrgau.mongodb.net/"
