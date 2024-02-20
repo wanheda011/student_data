@@ -29,7 +29,7 @@ Template.home.events({
         if(subject_Code == ""){
             alert("Please Enter Subject Code...");
          }else {
-            template.subejctCode.set(subject_Code);
+            // template.subejctCode.set(subject_Code);
         } 
     }
 
