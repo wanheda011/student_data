@@ -6,5 +6,5 @@ Meteor.startup(() => {
   // code to run on server at startup
   const remote = new MongoInternals.RemoteCollectionDriver("mongodb+srv://ajaysolanki1106:wUFHu5D1gHjbeEga@cluster0.mqtrgau.mongodb.net/");
 
-  const newMongo = new Mongo.Collection('pitSubjects', { _driver: remote });
+  const newMongo = new Mongo.Collection('pitSubject', { _driver: remote });
 });
